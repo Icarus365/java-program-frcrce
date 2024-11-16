@@ -1,0 +1,45 @@
+Name: sherviin
+City: mumbai
+Street: lic colony
+Area: borivali
+Residential Address: sawant sadan
+Transparent: 500.0
+Transclusent: 0.0
+Black: 0.0
+_____________________________________________________
+Name: ss
+City: ss
+Street: ss
+Area: ss
+Residential Address: ss
+Transparent: 500.0
+Transclusent: 0.0
+Black: 0.0
+_____________________________________________________
+Name: ss
+City: ss
+Street: ss
+Area: ss
+Residential Address: ss
+Transparent: 1.0
+Transclusent: 0.0
+Black: 0.0
+_____________________________________________________
+Name: ss
+City: ss
+Street: ss
+Area: ss
+Residential Address: ss
+Transparent: 1.0
+Transclusent: 0.0
+Black: 0.0
+_____________________________________________________
+Name: ss
+City: ss
+Street: ss
+Area: ss
+Residential Address: ss
+Transparent: 200.0
+Transclusent: 4900.0
+Black: 0.0
+_____________________________________________________
